@@ -1,3 +1,6 @@
+[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Resume](resume.md) | [Contact](contact.md)
+---
+
 # Contact
 
 I am open to entry-level opportunities in Technical Analysis, Security Analysis, or IT-related roles.
