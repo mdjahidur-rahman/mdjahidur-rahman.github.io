@@ -1,3 +1,6 @@
+[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Resume](resume.md) | [Contact](contact.md)
+---
+
 # Projects
 
 Below are selected academic and technical projects that demonstrate my analytical and security-focused approach.
