@@ -1,0 +1,9 @@
+title: Md Jahidur Rahman
+description: Technical & Security Analyst
+theme: jekyll-theme-cayman
+
+header_pages:
+  - about.md
+  - projects.md
+  - resume.md
+  - contact.md
