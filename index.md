@@ -3,36 +3,32 @@
 
 Computer Science graduate (2025) from the University of New Brunswick with strong interests in technical systems analysis and cybersecurity.
 
----
-
-## About Me
-
-I am passionate about understanding how systems work, identifying vulnerabilities, and improving operational efficiency. My background includes five co-op experiences and leadership experience as a Front Desk Supervisor, where I developed strong analytical and problem-solving skills.
+I focus on understanding system architecture, identifying risks, and improving operational efficiency through analytical problem solving.
 
 ---
 
-## Skills
+## Core Competencies
 
+- Technical Systems Analysis
 - Networking Fundamentals
-- Linux Basics
-- Python
-- SQL
-- System Troubleshooting
-- Risk Analysis
-- Incident Documentation
+- Linux & System Administration
+- SQL & Database Concepts
+- Python Fundamentals
+- Risk & Vulnerability Awareness
+- Incident Documentation & Reporting
 
 ---
 
-## Experience
+## Professional Experience
 
 ### Front Desk Supervisor
-- Supervised overnight operations
-- Performed financial and operational audits
-- Resolved high-pressure situations
-- Managed confidential information
+- Supervised overnight operations and coordinated staff activities
+- Conducted daily financial reconciliation and operational audits
+- Resolved high-pressure incidents with structured problem-solving
+- Managed confidential guest and operational information
 
 ---
 
-## Contact
+## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/md-jahidur/)
