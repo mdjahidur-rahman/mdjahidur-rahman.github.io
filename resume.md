@@ -1,3 +1,6 @@
+[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Resume](resume.md) | [Contact](contact.md)
+---
+
 # Resume
 
 My professional resume is available upon request.
