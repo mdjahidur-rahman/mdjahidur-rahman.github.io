@@ -1,3 +1,6 @@
+[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Resume](resume.md) | [Contact](contact.md)
+---
+
 # About Me
 
 I completed my Bachelor of Computer Science in January 2025 from the University of New Brunswick. During my academic journey, I completed five co-op placements that allowed me to apply technical knowledge in professional environments.
